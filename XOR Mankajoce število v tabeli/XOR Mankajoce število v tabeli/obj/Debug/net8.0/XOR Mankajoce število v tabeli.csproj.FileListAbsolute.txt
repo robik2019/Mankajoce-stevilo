@@ -1,0 +1,14 @@
+C:\Users\robik\source\repos\XOR Mankajoce število v tabeli\XOR Mankajoce število v tabeli\bin\Debug\net8.0\XOR Mankajoce število v tabeli.exe
+C:\Users\robik\source\repos\XOR Mankajoce število v tabeli\XOR Mankajoce število v tabeli\bin\Debug\net8.0\XOR Mankajoce število v tabeli.deps.json
+C:\Users\robik\source\repos\XOR Mankajoce število v tabeli\XOR Mankajoce število v tabeli\bin\Debug\net8.0\XOR Mankajoce število v tabeli.runtimeconfig.json
+C:\Users\robik\source\repos\XOR Mankajoce število v tabeli\XOR Mankajoce število v tabeli\bin\Debug\net8.0\XOR Mankajoce število v tabeli.dll
+C:\Users\robik\source\repos\XOR Mankajoce število v tabeli\XOR Mankajoce število v tabeli\bin\Debug\net8.0\XOR Mankajoce število v tabeli.pdb
+C:\Users\robik\source\repos\XOR Mankajoce število v tabeli\XOR Mankajoce število v tabeli\obj\Debug\net8.0\XOR Mankajoce število v tabeli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robik\source\repos\XOR Mankajoce število v tabeli\XOR Mankajoce število v tabeli\obj\Debug\net8.0\XOR Mankajoce število v tabeli.AssemblyInfoInputs.cache
+C:\Users\robik\source\repos\XOR Mankajoce število v tabeli\XOR Mankajoce število v tabeli\obj\Debug\net8.0\XOR Mankajoce število v tabeli.AssemblyInfo.cs
+C:\Users\robik\source\repos\XOR Mankajoce število v tabeli\XOR Mankajoce število v tabeli\obj\Debug\net8.0\XOR Mankajoce število v tabeli.csproj.CoreCompileInputs.cache
+C:\Users\robik\source\repos\XOR Mankajoce število v tabeli\XOR Mankajoce število v tabeli\obj\Debug\net8.0\XOR Mankajoce število v tabeli.dll
+C:\Users\robik\source\repos\XOR Mankajoce število v tabeli\XOR Mankajoce število v tabeli\obj\Debug\net8.0\refint\XOR Mankajoce število v tabeli.dll
+C:\Users\robik\source\repos\XOR Mankajoce število v tabeli\XOR Mankajoce število v tabeli\obj\Debug\net8.0\XOR Mankajoce število v tabeli.pdb
+C:\Users\robik\source\repos\XOR Mankajoce število v tabeli\XOR Mankajoce število v tabeli\obj\Debug\net8.0\XOR Mankajoce število v tabeli.genruntimeconfig.cache
+C:\Users\robik\source\repos\XOR Mankajoce število v tabeli\XOR Mankajoce število v tabeli\obj\Debug\net8.0\ref\XOR Mankajoce število v tabeli.dll
