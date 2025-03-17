@@ -1,0 +1,14 @@
+C:\Users\robik\source\repos\Mankajoče število v tabeli\Mankajoče število v tabeli\bin\Debug\net8.0\Mankajoče število v tabeli.exe
+C:\Users\robik\source\repos\Mankajoče število v tabeli\Mankajoče število v tabeli\bin\Debug\net8.0\Mankajoče število v tabeli.deps.json
+C:\Users\robik\source\repos\Mankajoče število v tabeli\Mankajoče število v tabeli\bin\Debug\net8.0\Mankajoče število v tabeli.runtimeconfig.json
+C:\Users\robik\source\repos\Mankajoče število v tabeli\Mankajoče število v tabeli\bin\Debug\net8.0\Mankajoče število v tabeli.dll
+C:\Users\robik\source\repos\Mankajoče število v tabeli\Mankajoče število v tabeli\bin\Debug\net8.0\Mankajoče število v tabeli.pdb
+C:\Users\robik\source\repos\Mankajoče število v tabeli\Mankajoče število v tabeli\obj\Debug\net8.0\Mankajoče število v tabeli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robik\source\repos\Mankajoče število v tabeli\Mankajoče število v tabeli\obj\Debug\net8.0\Mankajoče število v tabeli.AssemblyInfoInputs.cache
+C:\Users\robik\source\repos\Mankajoče število v tabeli\Mankajoče število v tabeli\obj\Debug\net8.0\Mankajoče število v tabeli.AssemblyInfo.cs
+C:\Users\robik\source\repos\Mankajoče število v tabeli\Mankajoče število v tabeli\obj\Debug\net8.0\Mankajoče število v tabeli.csproj.CoreCompileInputs.cache
+C:\Users\robik\source\repos\Mankajoče število v tabeli\Mankajoče število v tabeli\obj\Debug\net8.0\Mankajoče število v tabeli.dll
+C:\Users\robik\source\repos\Mankajoče število v tabeli\Mankajoče število v tabeli\obj\Debug\net8.0\refint\Mankajoče število v tabeli.dll
+C:\Users\robik\source\repos\Mankajoče število v tabeli\Mankajoče število v tabeli\obj\Debug\net8.0\Mankajoče število v tabeli.pdb
+C:\Users\robik\source\repos\Mankajoče število v tabeli\Mankajoče število v tabeli\obj\Debug\net8.0\Mankajoče število v tabeli.genruntimeconfig.cache
+C:\Users\robik\source\repos\Mankajoče število v tabeli\Mankajoče število v tabeli\obj\Debug\net8.0\ref\Mankajoče število v tabeli.dll
