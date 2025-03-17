@@ -21,6 +21,6 @@ internal class Program
 
         int mankajoceStevilo = xorVse ^ xorNiz;
 
-        Console.WriteLine("Mankajoče število je: " + xorNiz);
+        Console.WriteLine("Mankajoče število je: " + mankajoceStevilo);
     }
 }
